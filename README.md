@@ -1,5 +1,5 @@
 # devops-deploy-shells
-The framework for cross-platform process starting and management, always focused on devops-deployment.
+Cross-platform process starting and management, always for system redistribution.
 
 # Plan
  - based on https://github.com/shelljs/shelljs
